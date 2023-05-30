@@ -1,0 +1,18 @@
+{
+    "label" : "Wyloguj",
+    "action" : "loginctl terminate-user $USER",
+    "text" : "Wyloguj",
+    "keybind" : "e"
+}
+{
+    "label" : "Wyłącz",
+    "action" : "systemctl poweroff",
+    "text" : "Wyłącz",
+    "keybind" : "s"
+}
+{
+    "label" : "Restartuj",
+    "action" : "systemctl reboot",
+    "text" : "Restartuj",
+    "keybind" : "r"
+}
