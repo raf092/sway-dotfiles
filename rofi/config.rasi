@@ -1,0 +1,6 @@
+configuration {
+display-drun: "Aplikacje";
+drun-display-format: "{name}";
+}
+
+@theme "/usr/share/rofi/themes/DarkBlue.rasi"
