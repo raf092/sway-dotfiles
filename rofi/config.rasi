@@ -1,6 +1,7 @@
 configuration {
 display-drun: "Aplikacje";
 drun-display-format: "{name}";
+sorting-method: "fzf";
 }
 
 @theme "/usr/share/rofi/themes/DarkBlue.rasi"
